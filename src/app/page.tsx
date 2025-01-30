@@ -1,7 +1,9 @@
+import Hero from "./Components/Carousel/page";
+
 export default function Home() {
   return (
     <div>
-      this is a nextjs app
+     <Hero/>
     </div>
   );
 }
